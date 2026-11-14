@@ -72,6 +72,7 @@
 - 🔼🌍 🌎 [Prefixer](github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 <b><code>&nbsp;&nbsp;&nbsp;636⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;31🍴</code></b> [RustyWind](https://github.com/avencera/rustywind)) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 <b><code>&nbsp;&nbsp;&nbsp;103⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Tailwind to Inline styles converter](https://github.com/vardan-arm/tailwind-to-inline)) - Converts Tailwind CSS classes to inline styles in email templates.
+- 🔼🌍 [html69 CSS to Tailwind Converter](https://www.html69.com/css-to-tailwind) - Converts standard CSS rules into Tailwind CSS utility classes in the browser.
 - 🚀 🌎 [Maizzle](maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 - 💼 <b><code>&nbsp;&nbsp;1869⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;194🍴</code></b> [`@nuxtjs/tailwindcss`](https://github.com/nuxt-community/tailwindcss-module)) - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
 - 💼 <b><code>&nbsp;&nbsp;1587⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;193🍴</code></b> [tailwindcss-rails](https://github.com/rails/tailwindcss-rails)) - Gem for using Tailwind CSS with Rails' asset pipeline.
@@ -81,6 +82,7 @@
 - 🌐 🌎 [Gimli Tailwind](chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 🌎 [CSS Variables Editor](www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 🌎 [DivMagic](divmagic.com) - Copy any web element and style as Tailwind CSS component.
+
 
 
 ## UI libraries, components & templates
